@@ -1,0 +1,6 @@
+GET http://localhost:3000/todos
+
+###
+
+GET http://localhost:3000/agenda/?date=2021-12-12
+
